@@ -1,0 +1,24 @@
+{
+  "name": "siakad",
+  "version": "1.0.0",
+  "description": "A simple bot for scraping data from SIAKAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://github.com/DMuhammad",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^16.0.3",
+    "exceljs": "^4.3.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^6.5.2",
+    "node-fetch": "^3.1.1",
+    "puppeteer": "^19.2.2",
+    "readline-sync": "^1.4.10"
+  }
+}
