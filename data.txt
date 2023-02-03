@@ -1,1 +1,0 @@
-[{"Nama Mahasiswa":"MUHAMMAD DZIKRI ZULKIFLY RISKHA"},{"Jurusan":"TEKNIK INFORMATIKA"},{"SKS / IP Semester lalu":"22 sks / 3.61"},{"SKS Maksimum Semester Ini":"24 sks"}]
